@@ -1,32 +1,25 @@
-# Andres test
-
+# README Generator
 
 ## Description
-this a test description
+An app that generates professional README.md files through prompts. Save time and maintain consistency in your project documentation, through JavaScript and Node.js.
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
 
 ## Installation
-this is another test
+```bash
+git clone [repository-url]
+cd [project-directory]
+npm install
+```
 
 ## Usage
-new test
+1. Run `node index.js`
+2. Answer the prompts about your project
+3. Find your generated README.md in the project directory
 
 
+## Video to the demo
+https://app.screencastify.com/v3/watch/cEZjcjWQ2VJ39KPyMa1r
 
-## Contributing
-doing more tests
-
-## Tests
-one more test
-
-## Questions
-For additional questions, you can reach me through:
-* GitHub: [andres test](https://github.com/andres test)
-* Email: 
